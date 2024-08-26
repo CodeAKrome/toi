@@ -1,0 +1,6 @@
+.coverage
+__pycache__/
+.DS_Store
+.env
+.env.leave
+.venv
